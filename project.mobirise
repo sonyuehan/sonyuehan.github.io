@@ -1,0 +1,368 @@
+{
+  "settings": {
+    "currentPage": "AboutMePage",
+    "versionFirst": "2.8.2",
+    "versionPublish": "2.8.2",
+    "name": "jon-etech",
+    "favicon": "",
+    "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-72176868-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
+    "path": "file:///C:/Users/helpdesk2014/Desktop/WEBSITE",
+    "screenshot": "screenshot.png",
+    "publishType": "local",
+    "publishPath": "file:///C:/Users/helpdesk2014/Desktop/WEBSITE",
+    "publishGDriveLocation": "",
+    "publishGDrivePath": ""
+  },
+  "pages": {
+    "AboutMe.html": {
+      "settings": {
+        "title": "AboutMe",
+        "meta_descr": "aboutmepageforalleviation"
+      },
+      "components": [
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header1",
+          "_styles": {
+            "H1": {
+              "color": "#14ed53"
+            },
+            "P": {
+              "color": "#fac51c"
+            },
+            ".btn": {
+              "font-family": "'Droid Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700"
+            },
+            "I": {
+              "color": "#fac51c",
+              "font-size": "22px"
+            }
+          },
+          "_anchor": "header1-8",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/12234874-1079187885426802-8964536938377145831-n-1-960x540-84.jpg",
+            "bgColor": "#4c6972",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "right",
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "title": "A Little About Me!",
+          "text": "Over <b>8 </b>years of IT Experience/Administration in <b><i>Alaska</i></b>, <b><i>Arkansas</i></b> and <b><i>Hawaii</i></b>!!<br><br><b><i>Over 7 Years of Customer Service Experience!<br></i></b><i style=\"font-weight: bold;\">Previously Worked for 2 of Alaskas' Biggest Telecommunications Companies as an IT HELPDESK Technician!<br></i><br><b><i>I am Dell DCSE Certified!&nbsp;</i>Dell Tech Id: 229718<i><br>I am very Comfortable working in Dynamic Environments! I enjoy helping people very much!&nbsp;</i></b><br>",
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-info\" href=\"https://www.linkedin.com/in/jewrightlink\" data-toolbar=\"-mbrBtnMove\">See My LINKEDin</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#41a85f"
+            },
+            ".mbr-navbar__section": {}
+          },
+          "_name": "menu",
+          "_anchor": "menu-9",
+          "_params": {
+            "color": "#41a85f",
+            "transparent": true,
+            "sticky": false,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/jon-tech-logo-1280x720-26.jpg",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "Alleviation Homepage",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"AlleviationHomepage\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Jon-E Tech Alleviation</a>",
+          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"AboutMePage#contacts1-12\"></a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        },
+        {
+          "text": "The Empire State Building was designed by William F. Lamb from the architectural firm Shreve, Lamb and Harmon.",
+          "_name": "map1",
+          "_anchor": "map1-10",
+          "_params": {
+            "address": "Anchorage, Alaska",
+            "info": "Jon-e Tech"
+          },
+          "coord": [
+            61.2180556,
+            -149.90027780000003
+          ]
+        },
+        {
+          "_name": "contacts1",
+          "_styles": {
+            "UL": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "contacts1-11",
+          "_params": {
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#41a85f",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/jon-tech-logo-1280x720-81.jpg",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "Alleviation Homepage",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "text1": "<strong>ADDRESS</strong><br>7930 West 74th&nbsp;<br>Anchorage, AK 99502",
+          "text2": "<strong>CONTACTS</strong><br>\nEmail:jonetechalleviation@gmail.com<br>\nPhone: +1 (214) 631-9941<br><br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li>www.linkedin.com/in/jewrightlink</li><li>https://www.facebook.com/jonetec</li></ul>"
+        }
+      ]
+    },
+    "Home": {
+      "settings": {
+        "main": true,
+        "title": "HomePage",
+        "meta_descr": "AlleviationHomepage",
+        "header_custom": "<!-- Paste any valid HTML code here. The code will be inserted to the end of <head> section, right before </head> -->",
+        "footer_custom": "<!-- Paste any valid HTML code here. The code will be inserted to the end of <body> section, right before </body> -->"
+      },
+      "components": [
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#14ed53",
+              "text-align": "center",
+              "font-size": "46px"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article H3": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "color": "#f47658",
+              "font-size": "21px"
+            }
+          },
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-7",
+          "_params": {
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/SdPcOZMsZR0?rel=0&autoplay=0&loop=0",
+              "width": 1280,
+              "height": 720
+            },
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/jon-tech-logo-1280x720-69.jpg",
+            "bgColor": "#f97352",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.4",
+            "overlayColor": "#222",
+            "inverse": true,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/new-logo-1280x720-24.jpg",
+              "link": "",
+              "alt": "cool",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "headerAlign": "center",
+          "title": "I'm the Man to call for your issues!&nbsp;",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<h3><i>Call ,Text or Email Me Whenever YOU need Help! &nbsp;Availvle 24/7 365!</i></h3>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"https://www.linkedin.com/in/jewrightlink\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">My LINKEDin</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#14ed53",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "36px"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article H3": {
+              "color": "#f47658",
+              "font-size": "20px"
+            }
+          },
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-8",
+          "_params": {
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/kailua3-960x720-2.jpg",
+            "bgColor": "#f97352",
+            "bgColorRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/1656160-746412735370987-216528421-n-543x960-84.jpg",
+              "link": "none",
+              "alt": "cool",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "headerAlign": "left",
+          "title": "Let's Get Started!",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<h3>&nbsp;Software Installs with technical support! Data Backups! Excel,PowerPoint or Access Issues? Can't access your pst's in outlook? Is your phone acting weird? You Let me know the issue and I'll get right on it! &nbsp; &nbsp;</h3><div><br></div><p><br></p><p><br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://www.facebook.com/jonetec\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>"
+        },
+        {
+          "_name": "contacts1",
+          "_styles": {
+            "UL": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "contacts1-12",
+          "_params": {
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#41a85f",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/jon-tech-logo-1280x720-53.jpg",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "none",
+              "alt": "cool",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "text1": "<strong>ADDRESS</strong><br>7930 West 74th&nbsp;<br>Anchorage, AK 99502",
+          "text2": "<strong>CONTACTS</strong><br>\nEmail:jonetechalleviation@gmail.com<br>\nPhone: +1 (214) 631-9941<br><br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li>www.linkedin.com/in/jewrightlink</li><li>https://www.facebook.com/jonetec</li></ul>"
+        },
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#41a85f"
+            },
+            ".mbr-navbar__section": {}
+          },
+          "_name": "menu",
+          "_anchor": "menu-5",
+          "_params": {
+            "color": "#41a85f",
+            "transparent": true,
+            "sticky": false,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/jon-tech-logo-1280x720-85.jpg",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "cool",
+              "link": "none",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"AlleviationHomepage\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Jon-E Tech Alleviation</a>",
+          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"AboutMePage#contacts1-12\"></a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        }
+      ]
+    }
+  }
+}
